@@ -1,4 +1,4 @@
-# **Load Default Prediction using Machine Learning** 📊  
+ **Load Default Prediction using Machine Learning** 📊  
 
 ## **Overview**  
 This project focuses on predicting loan defaults using machine learning techniques. It leverages multiple classification models to determine the likelihood of a borrower defaulting based on various financial and personal attributes.  
