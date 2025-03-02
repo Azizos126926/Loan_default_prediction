@@ -69,7 +69,7 @@ jupyter notebook 02_model_training.ipynb
 
 ## **Results Visualization**  
 📉 Below is a comparison of different models based on Accuracy, Precision, Recall, and F1-Score:  
-![Model Comparison](results/model_comparison.png)  
+![Model Comparison](model_comparison.png)  
 
 
 
